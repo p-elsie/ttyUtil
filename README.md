@@ -14,4 +14,10 @@ Instructions for compiling with pyinstaller using Python 2.7 on Windows 10:
   pip install pyserial==3.5<br>
   pip install pyinstaller==3.6<br> 
   pyinstaller --onefile ttyUtil.py<br>
+<br><br> 
+Instructions for compiling with pyinstaller using Python 3.10.5 on Windows 10:
+  
+  pip install pyserial==3.5<br>
+  pip install pyinstaller==5.2<br> 
+  pyinstaller --onefile ttyUtil.py<br>
  
