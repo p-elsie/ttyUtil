@@ -9,7 +9,7 @@ ttyUtil.py --string=<string> [--port=<port> default:COM1] [--baud=<baud> default
   Use double quotes if the string contains spaces.
   
 <br><br>  
-Instructions for compiling with pyinstaller using Python 2.7 on Windows 10:
+Instructions for compiling with pyinstaller using Python 2.7.18 on Windows 10:
   
   pip install pyserial==3.5<br>
   pip install pyinstaller==3.6<br> 
