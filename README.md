@@ -11,7 +11,7 @@ ttyUtil.py --string=<string> [--port=<port> default:COM1] [--baud=<baud> default
 <br><br>  
 Instructions for compiling with pyinstaller using Python 2.7 on Windows 10:
   
-  pip install pyserial<br>
+  pip install pyserial==3.5<br>
   pip install pyinstaller==3.6<br> 
   pyinstaller --onefile ttyUtil.py<br>
  
