@@ -8,10 +8,10 @@ ttyUtil.py --string=<string> [--port=<port> default:COM1] [--baud=<baud> default
   Sends the specified string to the serial port, followed by line feed, and prints any immediate, one line response message.
   Use double quotes if the string contains spaces.
   
-  
+<br><br>  
 Instructions for compiling with pyinstaller using Python 2.7 on Windows 10:
   
-  pip install pyserial
-  pip install pyinstaller 
-  pyinstaller --onefile ttyUtil.py
+  pip install pyserial<br>
+  pip install pyinstaller<br> 
+  pyinstaller --onefile ttyUtil.py<br>
  
