@@ -1,5 +1,5 @@
 # ttyUtil
-read/write one line to serial port
+writes one line to serial port, then reads, and prints a one line response
 
 Usage:
 
